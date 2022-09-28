@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Alg1mantas Algimnantas
-- 👀 I’m interested in tennis, aircrafts, programming
+- 👋 Hi, I’m @Algimantas
+- 👀 I’m interested in programming tennis, aircrafts
 - 🌱 I’m currently learning Python, SQL
 - 📫 How to reach me : kirdeikisalgimantas@gmail.com
 

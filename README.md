@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Algimantas
 - 👀 I’m interested in programming, tennis, aircrafts
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, SQL, C
 - 📫 How to reach me : kirdeikisalgimantas@gmail.com
 
 <!---
